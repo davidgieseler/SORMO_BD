@@ -1,0 +1,4 @@
+2025-12-11 11:33:07 | INFO | Backend iniciado
+2025-12-11 11:36:44 | WARNING | Erro ao buscar clima: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?lat=-23.5505&lon=-46.6333&appid=49ebeb535a4876132038be585699fc33&units=metric&lang=pt_br
+2025-12-11 11:48:50 | INFO | Backend iniciado
+2025-12-11 11:52:30 | INFO | Backend iniciado
